@@ -1,0 +1,5 @@
+.cambiar{
+    color:brown;
+    -webkit-transform: rotate(30);
+            transform: rotate(30)
+}

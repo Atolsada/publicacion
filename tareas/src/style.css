@@ -1,0 +1,9 @@
+:root{
+    --colorbase: brown;
+}
+
+
+.cambiar{
+    color:var(--colorbase);
+    transform: rotate(30)
+}
